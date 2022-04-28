@@ -24,19 +24,20 @@ html body {
 
 header {
     background-color: black;
-    height: 150px;
+    height: 20vw;
     color: white;
     text-align: center;
 }
 
 header > h1 {
     font-size: 7vw;
-    padding-top: 50px;
+    padding-top: 2.5vh;
     font-variant: small-caps;
     font-family: var(--fonte2);
 }
 header > p {
     padding-bottom: 50px;
+    font-size: 2vw;
 }
 
 a {
